@@ -13,3 +13,4 @@ This app has been developed for taxonomists, nature conservationists, environmen
 The robustness of this app depends on the quality indicators of GBIF datasets. It is up to us to make use of this open-source tool to improve our decision-making in various sectors.
 In conclusion, utilizing an R web app for bird data visualizations opens up new avenues for studying birds and their habitats.
  It empowers users with tools to delve deeper into their passion for ornithology while promoting collaboration within the community of birdwatching enthusiasts.
+ https://tsitsomafantiri.blogspot.com/2023/10/mylinonyana-web-app-for-birds-data.html
