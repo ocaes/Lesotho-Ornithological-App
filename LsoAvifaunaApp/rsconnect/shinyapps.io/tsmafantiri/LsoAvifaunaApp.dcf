@@ -1,0 +1,12 @@
+name: LsoAvifaunaApp
+title: LsoAvifaunaApp
+username: tsmafantiri
+account: tsmafantiri
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10200433
+bundleId: 7808327
+url: https://tsmafantiri.shinyapps.io/LsoAvifaunaApp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
