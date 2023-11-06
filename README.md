@@ -1,4 +1,4 @@
-# Ornithological-App
+# Lesotho-Ornithological-App
 This MyLINONYANA App is a web-based app developed in Lesotho using the R Shiny framework. Shiny apps are interactive web applications that are built with the R programming language.
 The shiny framework is ideal for creating a wide variety of dynamic documents, interactive applications such as decision data dashboards, interactive visualizations, and machine learning models.
 With the advancements in technology and data analysis tools, it has become easier than ever to explore and visualize bird data.
