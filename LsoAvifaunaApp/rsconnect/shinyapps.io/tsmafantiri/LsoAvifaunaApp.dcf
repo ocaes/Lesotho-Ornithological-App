@@ -5,7 +5,7 @@ account: tsmafantiri
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 10200433
-bundleId: 7808327
+bundleId: 7929605
 url: https://tsmafantiri.shinyapps.io/LsoAvifaunaApp/
 version: 1
 asMultiple: FALSE
